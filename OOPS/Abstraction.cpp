@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+// -------- Abstraction is done using access specifiers------
+
 class Add{
     private:
         int x,y;
